@@ -15,4 +15,7 @@ This Power BI dashboard provides a comprehensive analysis of Blinkit's sales per
 * **Techniques:** Data Cleaning, DAX Measures, Dynamic Filtering (Slicers), and KPI Tracking.
 
 ## 📸 Dashboard Preview
-Screenshots/BD Main.PNG
+<img width="867" height="488" alt="BD Main" src="https://github.com/user-attachments/assets/705ea927-43f4-4838-a3a0-21ad6b0c122c" />
+<img width="867" height="494" alt="BD MAIN 1" src="https://github.com/user-attachments/assets/4b42054b-9718-4121-b6fa-920160f22031" />
+
+
